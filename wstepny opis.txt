@@ -1,0 +1,15 @@
+Akademia C# grupa podstawowa, Jacek Kowal
+
+Aplikacja graficzna z uzyciem WPF:
+
+generowanie szablonow pomocnych do ciecia rur
+
+input uzytkownika: srednice rur + katy z jakimi sie przenikaja
+
+output: plik tesktowy ze wspolrzednymi dla AutoCada
+
+dodatkowe funkcjonalnosci:
+prosta baza danych (jako plik tekstowy) rur dostepnych z katalogow + ich edycja
+
+
+
