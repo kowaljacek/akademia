@@ -6,10 +6,14 @@ generowanie szablonow pomocnych do ciecia rur
 
 input uzytkownika: srednice rur + katy z jakimi sie przenikaja
 
-output: plik tesktowy ze wspolrzednymi dla AutoCada
+output:
+1) plik .dxf (format wektorowy dla autocada)
+2) rysunek polaczenia + mozliwosc jego wydruku
 
 dodatkowe funkcjonalnosci:
-prosta baza danych (jako plik tekstowy) rur dostepnych z katalogow + ich edycja
+prosta baza danych (jako plik tekstowy) rur dostepnych z katalogow
+sprawdzanie wersji programu i pobieranie nowej z ftp
+
 
 
 
